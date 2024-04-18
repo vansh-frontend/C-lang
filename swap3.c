@@ -1,3 +1,4 @@
+// swap two numbers without third varible with use of XOR 
 #include <stdio.h>
 int main()
 {
